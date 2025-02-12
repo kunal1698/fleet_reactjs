@@ -1,0 +1,25 @@
+.modal {
+  z-index: 20;
+}
+.modal-backdrop {
+  z-index: 10;
+}
+.autocomplete-container {
+  width: 100%;
+  border: 1px solid #ccc;
+  border-radius: 5px;
+  padding: 5px;
+}
+.btn-add {
+  padding: 5px;
+  border: none;
+  background-color: transparent;
+  color: #007bff;
+  margin-top: 5px;
+}
+.btn-submit {
+  margin-top: 25px;
+}
+.route-input-container {
+  margin-top: 15px;
+}
